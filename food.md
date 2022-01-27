@@ -2,14 +2,53 @@
 
 *2 year supplies the chipest possible*
 
-* Ready-to-eat canned meats, fruits, vegetables, and a can opener
+* Ready-to-eat canned meats, 
+- fruits, vegetables
+
+
 * Dry cereal or granola (Up to 30-year shelf life)
   **(dogs can eat itdogs can eat it)**
+
 * Butter (because you love it)
+
 * Dried fruit (as a source of pectin, fructose and minerals)
 * Nuts (They have a significantly high concentration of DHA, a type of Omega-3 fatty acid. Among other things, DHA has been shown to protect brain health in newborns, improve cognitive performance in adults, and prevent or ameliorate age-related cognitive decline.)
 * Crackers  **(dogs can eat itdogs can eat it)**
 * Non-perishable pasteurized milk (source of milk protein and some fats)
+
+## Quantity
+
+- 500 KG Rice
+- 100 KG Canned Vegi( GreenPea/Beansin tomato)
+- 50 KG Canned meat 
+- 50 Vitamin pills  
+
+- 10 Dry Millitary packs
+
+## Price
+
+- Rice 		= 0.3$/kg
+- Canned meat 	= 3.5$/kg
+- Canned vegi 	= 2$/kg
+- Vitamin pills = 1$/pack
+
+- Dry ration    = 10$/Pack
+
+Total  575 $
+
+## Diet 1 Person Day
+
+- 500 g Rice
+- 75 g pork meat
+- 125 g vagitables
+- 0.5 Vitamin Pill
+
+
+## To Buy
+
+- Dry Milk
+- Canned Fish
+- Tea\Coffe
 
 **About rice!!**
 
@@ -19,7 +58,7 @@
 
 
 | Nutrient proximates          | Brown rice        | White rice       |
-| :----------------------------- | ------------------- | ------------------ |
+| :--------------------------- | ------------------- | ------------------ |
 | energy                       | 82 calories       | 68 calories      |
 | protein                      | 1.83 g            | 1.42 g           |
 | total lipid (fat)            | 0.65 g            | 0.15 g           |
